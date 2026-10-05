@@ -54,6 +54,12 @@ h3 {
       margin-bottom: 20px;
 }
 
+p .center-font{
+    font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
 /* .video-size{
     display: block;
     margin: auto;
