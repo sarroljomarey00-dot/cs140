@@ -60,7 +60,8 @@ p .center-font{
   font-weight: <weight>;
   font-style: normal;
 }
-/* .video-size{
+
+.video-size{
     display: block;
     margin: auto;
     width: 50%;
@@ -68,4 +69,4 @@ p .center-font{
     height: auto;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.15);
-} */
+}
