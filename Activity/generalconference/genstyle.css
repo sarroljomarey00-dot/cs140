@@ -56,9 +56,10 @@ h3 {
 
 p .center-font{
     font-family: "Jost", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;   
+  height: 200px;
 }
 
 .video-size{
@@ -70,3 +71,4 @@ p .center-font{
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0,0,0,0.15);
 }
+
