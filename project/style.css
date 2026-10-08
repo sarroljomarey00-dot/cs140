@@ -1,7 +1,7 @@
- @import url(<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Island+Moments&family=Jost:ital,wght@0,100..900;1,100..900&family=Londrina+Shadow&family=Outfit:wght@100..900&display=swap" rel="stylesheet">);
+ @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Island+Moments&family=Jost:ital,wght@0,100..900;1,100..900&family=Londrina+Shadow&family=Outfit:wght@100..900&display=swap');
 
  h1{
-    font-family: "Island Moments", cursive;
+    font-family: "Caveat Brush", cursive;
     font-weight: 400;
     font-style: normal;
     color:rgb(13, 157, 157);
@@ -16,7 +16,7 @@
  }
 
  h2{
-     font-family: "Island Moments", cursive;
+     font-family: "Caveat Brush", cursive;
      font-size: 20pt;
      color:#008C95;
  }
@@ -27,7 +27,7 @@
  }
 
  .important {
-    font-family: "Island Moments", cursive;
+    font-family: "Caveat Brush", cursive;
     font-size: 16pt;
     color:rgb(255, 107, 16);
  }
@@ -39,7 +39,7 @@
  }
 
  .less-important {
-    font-family: "Island Moments", cursive;
+    font-family: "Caveat Brush", cursive;
     font-size: 14pt;
     color:#4A6B70;
  }
@@ -50,7 +50,7 @@
  }
 
  .not-important {
-    font-family: "Island Moments", cursive;
+    font-family: "Caveat Brush", cursive;
     font-size: 14pt;
     color:#008C95;
  }
